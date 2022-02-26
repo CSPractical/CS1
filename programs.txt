@@ -1,0 +1,9 @@
+Important Practicals for CS-1 Practical exam:
+
+1) Program to Sort 10 numbers in ascending/descending order using Bubble sort
+
+2) Program to calculate area and circumference of circle using classes and member function
+
+3) Programs usi constructor and destructor
+
+4) String reverse programng
